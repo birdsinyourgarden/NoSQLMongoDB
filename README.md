@@ -2946,7 +2946,7 @@ db.most_commented_movies.find()
 
 ## 🐥 9. Bibliografía <a name="bibliografia"></a>
 
-MongoDB Fundamentals: A hands-on guide to using MongoDB and Atlas in the real world. Packt Publishing (22 Diciembre 2020). 
+MongoDB Fundamentals: A hands-on guide to using MongoDB and Atlas in the real world.
 
 https://docs.mongodb.com/manual/tutorial/getting-started/
 
